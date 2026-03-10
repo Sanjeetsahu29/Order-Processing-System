@@ -11,7 +11,7 @@ This project demonstrates the core concepts of the Spring Framework:
 The application simulates a simple Order Processing System where:
 - An order is placed
 - A payment is processed
-- A notification is sent
+- A notification is sent<br>
 The goal of this project is to understand how Spring manages object creation and dependency resolution internally.
 ---
 
